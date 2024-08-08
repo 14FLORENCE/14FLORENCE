@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...SOFTWARE ENGINEERING 
 - 📫 How to reach me ...www.florencesway@gmail.com 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... not good in coding 
+- ⚡ Fun fact: ... love fun and coding 🖥 
 
 <!---
 14FLORENCE/14FLORENCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
