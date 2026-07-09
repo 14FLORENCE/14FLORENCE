@@ -2,7 +2,7 @@
 
 # Hey, I'm Florence Fredrick Sway 👋🏾
 
-### Founder and  · Full Stack Developer · AI/ML Engineer
+### Co-Founder and  · Full Stack Developer · AI/ML Engineer
 ### 🇹🇿 Dar es Salaam, Tanzania
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Building+Africa's+Digital+Future;Founder+%26+CEO+of+SWAIRAX;Full+Stack+%26+AI%2FML+Engineer;Tanzania-based+Tech+Entrepreneur)](https://git.io/typing-svg)
@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm the **Founder of [SWAIRAX](https://swairax.com)** — a technology company headquartered in Dar es Salaam, Tanzania, building Africa-first digital products powered by AI.
+I'm the **Co-Founder of [SWAIRAX](https://swairax.com)** — a technology company headquartered in Dar es Salaam, Tanzania, building Africa-first digital products powered by AI.
 
 I also lead **AMA B Innovation Company Limited**, a  Tanzanian enterprise with two patented products focused on environmental innovation and circular economy solutions.
 
@@ -96,7 +96,7 @@ I also lead **AMA B Innovation Company Limited**, a  Tanzanian enterprise with t
 | | |
 |--|--|
 | 🔴 **[SWAIRAX](https://github.com/SWAIRAX)** | Africa-first technology company — AI, FinTech, ConTech, BeautyTech |
-| 🟠 **AMA B Innovation** | BRELA-registered company with 2 Tanzanian patents |
+| 🟠 **AMA B Innovation** | Innovation company with 2 Tanzanian patents |
 
 ---
 
@@ -106,7 +106,7 @@ I also lead **AMA B Innovation Company Limited**, a  Tanzanian enterprise with t
 
 [![Website](https://img.shields.io/badge/swairax.com-CC0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swairax.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/florence-sway)
-[![Email](https://img.shields.io/badge/info@swairax.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florencesway@gmail.com)
+[![Email](https://img.shields.io/badge/florence@swairax.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florencesway@gmail.com)
 
 </div>
 
